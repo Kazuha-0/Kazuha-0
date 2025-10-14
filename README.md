@@ -14,11 +14,11 @@
 <p align="left">
 🎓 INGENIERO DE SOFTWARE
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎥 SOY UN ESTUDIANTE DE LA CARRERA DE INGENIERIA DE SOFTWARE 📚 Me gusta programar y trabajar en equipo  
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 En mi tiempo libre programo para fortalecer mis habilidades tecnicas y estudio lenguajes para profundizar en el campo
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... líder... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
 📫 Contacto: **kazuha550@gmail.com**
 <!--Intro end-->
